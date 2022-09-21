@@ -8,5 +8,4 @@ __pycache__
 *.pyc
 backend/.env
 **/migrations/**
-!**/migrations
 !**/migrations/__init__.py
